@@ -1,0 +1,13 @@
+{
+  "name": "limitr-example-ai-chat",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@formata/limitr": "latest",
+    "@anthropic-ai/sdk": "latest"
+  },
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

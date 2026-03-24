@@ -1,0 +1,12 @@
+{
+  "name": "limitr-example-ai-tokens",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@formata/limitr": "latest"
+  },
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
